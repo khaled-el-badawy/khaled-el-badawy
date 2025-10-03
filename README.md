@@ -7,4 +7,4 @@
  # I have a long-term goal after graduation I want to continue my academic career as a researcher in computer science.
  # Therefore, I strive to achieve the highest grades in university to prepare myself for this long journey.
 
- Follow me [LinkTree](https://linktr.ee/khaled_elbadawy).
+ # Follow me [LinkTree](https://linktr.ee/khaled_elbadawy).
